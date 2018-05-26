@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/tenxer/xcharts/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tenxer/xcharts/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<p>One of the biggest problems faced by startups is the difficulty of being able to explain their business
+ideas, products and services to their customers, simply and as quickly as possible. One of the effects of
+technology is that the attention span of the average person is shorter now than ever and the quicker
+someone can convey the information the better. Unfortunately, a few words cannot articulate a concept,
+and there is the possibility of losing audience's attention, and losing a customer. Business owners,
+therefore, need a means of Grabbing the Attention of their target audience and delivering their message
+in as few seconds as possible.
+Our Solution
+With an Explainer video, business owners are better Able to Explain their Product or Service in the
+shortest possible time. Our Explainer videos help them explain their business Easily and Efficiently in a
+minute or less. Videos have a very powerful effect on people as they tend to retain information, from
+videos better than they do from words. Promoting a new product, service or concept poses a challenge.
+Getting it right the first time is, therefore, essential and this is what we strive to achieve.</p>
