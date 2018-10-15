@@ -4,6 +4,6 @@
 
 More Resources:
 
-<a href="http://kanikasharma.snack.ws/back-to-basics-content-marketing.html">Contant Marketing</a>
-<a href="http://racheltestsite.strikingly.com/blog/impact-highlight-our-first-grant-in-action">Marketing using an Explainer Video</a>
+<a href="http://kanikasharma.snack.ws/back-to-basics-content-marketing.html">Contant Marketing,</a>
+<a href="http://racheltestsite.strikingly.com/blog/impact-highlight-our-first-grant-in-action">Marketing using an Explainer Video,</a>
 <a href="https://kanikasharma.jimdo.com/2018/08/13/marketing-on-a-budget-with-an-animated-explainer-video/">Marketing on a Budget</a>
